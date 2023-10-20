@@ -1,0 +1,12 @@
+.container{
+    background-color: darkcyan;
+    color: white;
+}
+
+.sobre{
+    background-color: white;
+    border-radius: 1em;
+    padding: 1%;
+    color: rgba(0, 0, 0, 0.473);
+    font-size: 1.6em;
+}
