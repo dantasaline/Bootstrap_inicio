@@ -1,12 +1,13 @@
+main{
+    background-color: #668099;
+}
+
 .container{
-    background-color: darkcyan;
-    color: white;
+    background-color: #A9BDCE;
+    color: #1F3B58;
 }
 
 .sobre{
-    background-color: white;
-    border-radius: 1em;
-    padding: 1%;
-    color: rgba(0, 0, 0, 0.473);
-    font-size: 1.6em;
+    font-size: 1.5em;
 }
+
