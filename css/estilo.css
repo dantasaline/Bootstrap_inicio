@@ -1,13 +1,24 @@
 main{
-    background-color: #668099;
+    background-color: #A9BDCE;
+    font-size: 1.3em;
 }
 
 .container{
-    background-color: #A9BDCE;
+    background-color: white;
     color: #1F3B58;
 }
 
 .sobre{
-    font-size: 1.5em;
+
 }
 
+.card-img-top{
+    width: 90%;
+    padding-left: 10%;
+}
+
+.img{
+    width: 30%;
+    float: left;
+    padding: 1%;
+}
