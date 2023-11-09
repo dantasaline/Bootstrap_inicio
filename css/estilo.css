@@ -60,3 +60,13 @@ main{
 .container-fluid{
     background-color:#A9BDCE;
 }
+
+.video{
+    text-align: center;
+}
+
+@media (max-width:767px) {
+    iframe{
+        width: 70%;
+    }
+}
