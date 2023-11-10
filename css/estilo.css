@@ -46,7 +46,6 @@ main{
 .imggal{
     width: 100%;
     border-radius: 2em;
-    padding-bottom: 1%;
     box-shadow: 10px 10px 10px 2px #6a90b8;
 }
 
@@ -58,6 +57,10 @@ main{
     text-align: center;
 }
 
+.accordion{
+    padding-bottom: 2%;
+}
+
 @media (max-width:767px) {
     iframe{
         width: 70%;
@@ -66,3 +69,4 @@ main{
         width: 5%;
     }
 }
+
