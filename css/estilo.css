@@ -69,4 +69,7 @@ main{
     iframe{
         width: 70%;
     }
+    .logo{
+        width: 5%;
+    }
 }
