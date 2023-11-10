@@ -8,10 +8,6 @@ main{
     color: #1F3B58;
 }
 
-.sobre{
-
-}
-
 .card-img-top{
     width: 90%;
     padding-left: 10%;
@@ -50,11 +46,8 @@ main{
 .imggal{
     width: 100%;
     border-radius: 2em;
+    padding-bottom: 1%;
     box-shadow: 10px 10px 10px 2px #6a90b8;
-}
-
-.gal{
-    padding: 2%;
 }
 
 .container-fluid{
